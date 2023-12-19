@@ -5,8 +5,10 @@ using UnityEngine.SceneManagement;
 using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 
+
 public class PanelScript : MonoBehaviour
 {
+
     
     //on veut reload la scene en appuyant sur le bouton une fois mort
     public void ReloadScene()

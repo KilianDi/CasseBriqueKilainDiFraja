@@ -13,7 +13,8 @@ public class UiManager : MonoBehaviour
     public void IncrementScore()
     {
         score += 100;
-        scoreText.text = "Score : " + score;    
+        scoreText.text = "Score : " + score;
+        
     }
 
 
